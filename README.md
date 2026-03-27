@@ -1,128 +1,30 @@
-<h2 align="center">About me</h2>
-<p align="center">
-I'm a <b>Computer Engineering student</b> focused on <b><ins>backend development</ins> ❗</b> from Venezuela 🇻🇪.
-<br><br> <em>Always eager to learn and build things that matter.</em>
+<h1 align="center">Hi 👋, I'm Aaron Duque</h1>
+<h3 align="center">I'm a Software Engineering with a strong focus on backend development</h3>
+
+- 🔭 I’m currently working on [Kryptos](https://github.com/AaronDuque2006/kryptos)
+
+- 🌱 I’m currently learning **My machine learning thesis project for diagnosing skin diseases on hands.**
+
+- 👯 I’m looking to collaborate on **Open-source projects related to backend development or data science.**
+
+- 👨‍💻 All of my projects are available at [https://aaron-duque-portfolio.netlify.app/](https://aaron-duque-portfolio.netlify.app/)
+
+- 💬 Ask me about **Python, Java, Databases.**
+
+- 📫 How to reach me **duqueaaron022006@gmail.com**
+
+- ⚡ Fun fact **I am a semi-professional swimmer.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/aaron-duque-aa41b3370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aaron-duque-aa41b3370" height="30" width="40" /></a>
 </p>
 
-<picture>
-  <img align="right" src="languages.svg" alt="Top Languages" />
-</picture>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<span>
-<b>I speak the following languages</b>
-<li>📕 - Spanish <strong>(native)</strong>.</li>
-<li>📘 - English.</li>
-</span>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronduque2006&show_icons=true&locale=en&layout=compact" alt="aaronduque2006" /></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Profile?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2"></a>
-  &nbsp;
-  <a href="https://www.instagram.com/aaronduque_?igsh=MWV3Z292ZGFjNjB1aA=="><img src="https://img.shields.io/badge/Instagram-Profile?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F"></a>
-</p>
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronduque2006&show_icons=true&locale=en" alt="aaronduque2006" /></p>
 
-<!-- Main Languages -->
-<span>
-  <h2 align="center">Main Languages</h2>
-
-  <p align="center">
-  &nbsp;
-  <code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /></code>
-  &nbsp;&nbsp;
-  <code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /></code>
-  &nbsp;&nbsp;
-  <code><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" /></code>
-  &nbsp;
-  </p>
-</span>
-
-<br>
-<blockquote align="center">
-  (these are the most relevant, but the list is still growing)
-</blockquote>
-
-<!-- FrontEnd -->
-<h3><i>FrontEnd tools:</i></h3>
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-      <br>HTML
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-      <br>CSS
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-<!-- BackEnd -->
-<h3><i>BackEnd tools:</i></h3>
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring" />
-      <br>Spring
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" />
-      <br>SQLite
-    </td>
-  </tr>
-</table>
-
-<!-- Environment -->
-<h3><i>My Environment:</i></h3>
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
-      <br>VSCode
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-      <br>Java
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<span align="center">
-<i>
-<q>
-  Building the future, one commit at a time.
-</q>
-</i>
-  <b>- Aaron</b>
-</span>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronduque2006&" alt="aaronduque2006" /></p>
